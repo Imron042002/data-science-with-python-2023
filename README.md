@@ -43,7 +43,9 @@ as an CSV file
 -----
 ### 3.Data Preparation
 ------
+chek datamising in table
 
+drop colums
 
 
 -----
