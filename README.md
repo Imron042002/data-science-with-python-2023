@@ -100,9 +100,18 @@ People's Favourite Body Style - SUV and HatchBack
 -----
 ### 4.Modeliing
 -----
+set date time
 
+set annual income
 
+set encoder
+
+set model x model y train model use DecisionTreeClassifier
+
+set model to random
 
 ----
 ### 5.Evaluation
 ----
+
+score model
