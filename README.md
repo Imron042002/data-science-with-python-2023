@@ -43,15 +43,36 @@ as an CSV file
 -----
 ### 3.Data Preparation
 ------
-chek datamising in table.
+-chek datamising in table.
 ![Alt text](https://github.com/Imron042002/data-science-with-python-2023/blob/main/image/2.png?raw=true)
 
-drop colums
+-drop colums
 
 As we can see there are some features that are not very useful that we can remove :
 
 Phone, Car_id ,Customer Name, Dealer Name, Dealer_No
 
+![Alt text](https://github.com/Imron042002/data-science-with-python-2023/blob/main/image/3.png?raw=true)
+
+-Data Visualization and Interpretation : Graphs Plot Relational Graphs Univariate and Bivariate Analysis
+
+![Alt text]()
+
+Conclusion :
+
+Top 5 Companies - Chevrolet, Dodge, Ford, Volkswagen, Mitsubishi
+
+Prefered Engine - Double Overhead Camshaft
+
+Prefered Transmission - Auto
+
+Most Liked Color of Cars - Pale White
+
+Most Cars sold in Price range - 15,000 USD to 40,000 USD
+
+Highest Sales Regions - Austin, Janesville, Scottsdale
+
+People's Favourite Body Style - SUV and HatchBack
 
 -----
 ### 4.Modeliing
