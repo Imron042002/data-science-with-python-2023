@@ -43,9 +43,14 @@ as an CSV file
 -----
 ### 3.Data Preparation
 ------
-chek datamising in table
+chek datamising in table.
+![Alt text](https://github.com/Imron042002/data-science-with-python-2023/blob/main/image/2.png?raw=true)
 
 drop colums
+
+As we can see there are some features that are not very useful that we can remove :
+
+Phone, Car_id ,Customer Name, Dealer Name, Dealer_No
 
 
 -----
