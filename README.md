@@ -56,7 +56,30 @@ Phone, Car_id ,Customer Name, Dealer Name, Dealer_No
 
 -Data Visualization and Interpretation : Graphs Plot Relational Graphs Univariate and Bivariate Analysis
 
-![Alt text]()
+![Alt text](https://github.com/Imron042002/data-science-with-python-2023/blob/main/image/4.png?raw=true)
+
+![Alt text](https://github.com/Imron042002/data-science-with-python-2023/blob/main/image/5.png?raw=true)
+
+![Alt text](https://github.com/Imron042002/data-science-with-python-2023/blob/main/image/6.png?raw=true)
+
+
+![Alt text](https://github.com/Imron042002/data-science-with-python-2023/blob/main/image/7.png?raw=true)
+
+![Alt text](https://github.com/Imron042002/data-science-with-python-2023/blob/main/image/8.png?raw=true)
+
+![Alt text](https://github.com/Imron042002/data-science-with-python-2023/blob/main/image/9.png?raw=true)
+
+
+
+![Alt text](https://github.com/Imron042002/data-science-with-python-2023/blob/main/image/10.png?raw=true)
+
+![Alt text](https://github.com/Imron042002/data-science-with-python-2023/blob/main/image/11.png?raw=true)
+
+![Alt text](https://github.com/Imron042002/data-science-with-python-2023/blob/main/image/12.png?raw=true)
+
+![Alt text](https://github.com/Imron042002/data-science-with-python-2023/blob/main/image/13.png?raw=true)
+
+![Alt text](https://github.com/Imron042002/data-science-with-python-2023/blob/main/image/14.png?raw=true)
 
 Conclusion :
 
