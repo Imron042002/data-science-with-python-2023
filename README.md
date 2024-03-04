@@ -82,14 +82,9 @@ Conclusion:
 ![Encoder](https://github.com/Imron042002/data-science-with-python-2023/blob/main/image/17.png?raw=true)
 ![Encoder](https://github.com/Imron042002/data-science-with-python-2023/blob/main/image/18.png?raw=true)
 - Set Model (X, Y Train Model) using DecisionTreeClassifier
-![Model](https://github.com/Imron042002/data-science-with-python-2023/blob/main/image/19.png?raw=true)
-- Set Model to Random
-![Random Model](https://github.com/Imron042002/data-science-with-python-2023/blob/main/image/20.png?raw=true)
-![Random Model](https://github.com/Imron042002/data-science-with-python-2023/blob/main/image/21.png?raw=true)
+
 
 ### 5. Evaluation
 ---
-- Score Model
-![Score Model](https://github.com/Imron042002/data-science-with-python-2023/blob/main/image/22.png?raw=true)
-![Score Model](https://github.com/Imron042002/data-science-with-python-2023/blob/main/image/23.png?raw=true)
-![Score Model](https://github.com/Imron042002/data-science-with-python-2023/blob/main/image/24.png?raw=true)
+- Predict
+
