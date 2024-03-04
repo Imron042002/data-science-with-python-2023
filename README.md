@@ -88,3 +88,4 @@ Conclusion:
 ---
 - Predict
 
+![Predict](https://github.com/Imron042002/data-science-with-python-2023/blob/main/image/25.png?raw=true)
