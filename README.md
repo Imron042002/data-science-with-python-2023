@@ -82,7 +82,7 @@ Conclusion:
 ![Encoder](https://github.com/Imron042002/data-science-with-python-2023/blob/main/image/17.png?raw=true)
 ![Encoder](https://github.com/Imron042002/data-science-with-python-2023/blob/main/image/18.png?raw=true)
 - Set Model (X, Y Train Model) using DecisionTreeClassifier
-
+![Predict](https://github.com/Imron042002/data-science-with-python-2023/blob/main/image/26.png?raw=true)
 
 ### 5. Evaluation
 ---
